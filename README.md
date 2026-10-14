@@ -93,7 +93,7 @@ Suggested setup: upload your SQL file as `pizza.sql`, and upload the dashboard s
 
 ## 🖼️ Dashboard Preview
 
-![Pizza Sales Analysis Dashboard](images/pizza-sales-dashboard.png)
+https://github.com/sushobhitnigam-commits/pizza_sales_analysis/blob/main/pizza%20sales%20analysis.png
 
 
 
